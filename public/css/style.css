@@ -1,0 +1,40 @@
+h1{
+    color: aquamarine;
+}
+h5{
+    font-size: 17px;
+}
+p{
+    font-size: 14px;
+}
+nav
+{
+    overflow-x: hidden;
+ 
+}
+.navbar{
+    position: fixed;
+    z-index: 100;
+    width: 100%;
+}
+.nav-link .active a
+{
+    color: #fff;
+}
+
+.navbar-icons ul
+{
+    list-style: none;
+}
+.navbar-icons ul li
+{
+    display: inline-block;
+    padding-top: 12px; 
+    margin-right: 5px;
+}
+.navbar-icons ul li a
+{
+    color: #fff;
+    opacity: 0.6;
+    font-size: 23px;
+}
